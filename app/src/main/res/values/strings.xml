@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Menghitung Luas Segitiga</string>
+    <string name="segitiga_intro">Untuk menghitung luas segitiga dengan akurat. Cobalah sekarang!</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="hasil_x">BMI: %1$.2f</string>
+    <string name="alas_invalid">Berat tidak boleh kosong.</string>
+    <string name="tinggi_invalid">Tinggi tidak boleh kosong.</string>
+</resources>
