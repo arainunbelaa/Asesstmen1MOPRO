@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="green_500">#4B5320</color>
     <color name="green_700">#A9BA9D</color>
+    <color name="alas">#F57F17</color>
+    <color name="tinggi">#2E7D32</color>
+    <color name="hasil">#D32F2F</color>
 </resources>

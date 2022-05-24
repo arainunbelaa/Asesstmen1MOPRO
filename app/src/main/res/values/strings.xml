@@ -5,7 +5,19 @@
     <string name="tinggi">Tinggi</string>
     <string name="hitung">Hitung</string>
     <string name="reset">Reset</string>
-    <string name="hasil_x">BMI: %1$.2f</string>
+    <string name="hasil_x">Hasil: %1$.2f</string>
     <string name="alas_invalid">Berat tidak boleh kosong.</string>
     <string name="tinggi_invalid">Tinggi tidak boleh kosong.</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Hitung segitiga merupakan sebuah aplikasi Android untuk menghitung luas segitiga secara akurat. sehingga,
+        seseorang dapat mengetahui apakah perhitungannya tersebut telah sesuai.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Alas: %1$s cm\nTinggi: %2$s cm\n %3$s cm</string>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="histori">Histori</string>
+    <string name="value_x">Hasil: %1$.1f</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
 </resources>
