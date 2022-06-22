@@ -1,0 +1,18 @@
+[
+    {
+        "nama": "hanger",
+        "gambar": "hanger.jpg"
+    },
+    {
+        "nama":"marka-jalan",
+        "gambar":"marka-jalan.jpg"
+    },
+    {
+        "nama":"pizza",
+        "gambar":"pizza.jpg"
+    },
+    {
+        "nama":"penggaris",
+        "gambar":"penggaris.jpg"
+    }
+]
