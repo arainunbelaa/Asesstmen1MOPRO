@@ -1,18 +1,22 @@
 [
     {
         "nama": "hanger",
+        "keterangan": "buat gantung baju",
         "gambar": "hanger.jpg"
     },
     {
         "nama":"marka-jalan",
+        "keterangan": "suka ada di jalan, gatau artinya apa",
         "gambar":"marka-jalan.jpg"
     },
     {
         "nama":"pizza",
+        "keterangan": "ini tuh makanan",
         "gambar":"pizza.jpg"
     },
     {
         "nama":"penggaris",
+        "keterangan": "ternyata ada penggaris segitiga....",
         "gambar":"penggaris.jpg"
     }
 ]
